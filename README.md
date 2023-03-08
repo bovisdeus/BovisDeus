@@ -1,16 +1,14 @@
-### Hi there 👋
+Bovis Deus Portfolio
 
-<!--
-**bovisdeus/BovisDeus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------------------------------------------------------------------
+This is an active in work repository for Malware Analysis and training.
 
-Here are some ideas to get you started:
+This is where content will be published in line with the work I have
+been doing in my free time and will serve as a proof of concept
+of the skills learned by doing so. This repository is intended to 
+contain the works and write ups in an attempt to analyse malware
+samples found from a variety of resources. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Please direct all comments/suggestions/work inquires to:
+BovisDeus@gmail.com
+------------------------------------------------------------------------
